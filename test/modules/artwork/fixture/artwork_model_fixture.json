@@ -1,0 +1,22 @@
+{
+  "id": 3246665,
+  "width": 1983,
+  "height": 2643,
+  "url": "https://www.pexels.com/photo/painting-of-giraffe-3246665/",
+  "photographer": "Gül Işık",
+  "photographer_url": "https://www.pexels.com/@ekrulila",
+  "photographer_id": 1127278,
+  "avg_color": "#9B7765",
+  "src": {
+      "original": "https://images.pexels.com/photos/3246665/pexels-photo-3246665.png",
+      "large2x": "https://images.pexels.com/photos/3246665/pexels-photo-3246665.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "large": "https://images.pexels.com/photos/3246665/pexels-photo-3246665.png?auto=compress&cs=tinysrgb&h=650&w=940",
+      "medium": "https://images.pexels.com/photos/3246665/pexels-photo-3246665.png?auto=compress&cs=tinysrgb&h=350",
+      "small": "https://images.pexels.com/photos/3246665/pexels-photo-3246665.png?auto=compress&cs=tinysrgb&h=130",
+      "portrait": "https://images.pexels.com/photos/3246665/pexels-photo-3246665.png?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+      "landscape": "https://images.pexels.com/photos/3246665/pexels-photo-3246665.png?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "tiny": "https://images.pexels.com/photos/3246665/pexels-photo-3246665.png?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+  },
+  "liked": false,
+  "alt": "A watercolor painting of a giraffe surrounded by leaves and painting tools."
+}

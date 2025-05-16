@@ -1,0 +1,228 @@
+{
+    "page": 1,
+    "per_page": 10,
+    "photos": [
+        {
+            "id": 3246665,
+            "width": 1983,
+            "height": 2643,
+            "url": "https://www.pexels.com/photo/painting-of-giraffe-3246665/",
+            "photographer": "Gül Işık",
+            "photographer_url": "https://www.pexels.com/@ekrulila",
+            "photographer_id": 1127278,
+            "avg_color": "#9B7765",
+            "src": {
+                "original": "https://images.pexels.com/photos/3246665/pexels-photo-3246665.png",
+                "large2x": "https://images.pexels.com/photos/3246665/pexels-photo-3246665.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                "large": "https://images.pexels.com/photos/3246665/pexels-photo-3246665.png?auto=compress&cs=tinysrgb&h=650&w=940",
+                "medium": "https://images.pexels.com/photos/3246665/pexels-photo-3246665.png?auto=compress&cs=tinysrgb&h=350",
+                "small": "https://images.pexels.com/photos/3246665/pexels-photo-3246665.png?auto=compress&cs=tinysrgb&h=130",
+                "portrait": "https://images.pexels.com/photos/3246665/pexels-photo-3246665.png?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+                "landscape": "https://images.pexels.com/photos/3246665/pexels-photo-3246665.png?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+                "tiny": "https://images.pexels.com/photos/3246665/pexels-photo-3246665.png?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+            },
+            "liked": false,
+            "alt": "A watercolor painting of a giraffe surrounded by leaves and painting tools."
+        },
+        {
+            "id": 161154,
+            "width": 3008,
+            "height": 2000,
+            "url": "https://www.pexels.com/photo/worms-eye-view-of-spiral-stained-glass-decors-through-the-roof-161154/",
+            "photographer": "Pixabay",
+            "photographer_url": "https://www.pexels.com/@pixabay",
+            "photographer_id": 2659,
+            "avg_color": "#201718",
+            "src": {
+                "original": "https://images.pexels.com/photos/161154/stained-glass-spiral-circle-pattern-161154.jpeg",
+                "large2x": "https://images.pexels.com/photos/161154/stained-glass-spiral-circle-pattern-161154.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                "large": "https://images.pexels.com/photos/161154/stained-glass-spiral-circle-pattern-161154.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+                "medium": "https://images.pexels.com/photos/161154/stained-glass-spiral-circle-pattern-161154.jpeg?auto=compress&cs=tinysrgb&h=350",
+                "small": "https://images.pexels.com/photos/161154/stained-glass-spiral-circle-pattern-161154.jpeg?auto=compress&cs=tinysrgb&h=130",
+                "portrait": "https://images.pexels.com/photos/161154/stained-glass-spiral-circle-pattern-161154.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+                "landscape": "https://images.pexels.com/photos/161154/stained-glass-spiral-circle-pattern-161154.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+                "tiny": "https://images.pexels.com/photos/161154/stained-glass-spiral-circle-pattern-161154.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+            },
+            "liked": false,
+            "alt": "Captivating spiral stained glass art with vibrant colors forming a dramatic eye-catching pattern."
+        },
+        {
+            "id": 102127,
+            "width": 5184,
+            "height": 3456,
+            "url": "https://www.pexels.com/photo/shallow-focus-photography-of-paintbrush-102127/",
+            "photographer": "Daian Gan",
+            "photographer_url": "https://www.pexels.com/@daiangan",
+            "photographer_id": 23269,
+            "avg_color": "#82694E",
+            "src": {
+                "original": "https://images.pexels.com/photos/102127/pexels-photo-102127.jpeg",
+                "large2x": "https://images.pexels.com/photos/102127/pexels-photo-102127.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                "large": "https://images.pexels.com/photos/102127/pexels-photo-102127.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+                "medium": "https://images.pexels.com/photos/102127/pexels-photo-102127.jpeg?auto=compress&cs=tinysrgb&h=350",
+                "small": "https://images.pexels.com/photos/102127/pexels-photo-102127.jpeg?auto=compress&cs=tinysrgb&h=130",
+                "portrait": "https://images.pexels.com/photos/102127/pexels-photo-102127.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+                "landscape": "https://images.pexels.com/photos/102127/pexels-photo-102127.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+                "tiny": "https://images.pexels.com/photos/102127/pexels-photo-102127.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+            },
+            "liked": false,
+            "alt": "Vibrant artist palette with paint and brush creating colorful artwork."
+        },
+        {
+            "id": 1193743,
+            "width": 5616,
+            "height": 3744,
+            "url": "https://www.pexels.com/photo/photo-of-multicolored-abstract-painting-1193743/",
+            "photographer": "Dan Cristian Pădureț",
+            "photographer_url": "https://www.pexels.com/@paduret",
+            "photographer_id": 181338,
+            "avg_color": "#E4D3D2",
+            "src": {
+                "original": "https://images.pexels.com/photos/1193743/pexels-photo-1193743.jpeg",
+                "large2x": "https://images.pexels.com/photos/1193743/pexels-photo-1193743.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                "large": "https://images.pexels.com/photos/1193743/pexels-photo-1193743.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+                "medium": "https://images.pexels.com/photos/1193743/pexels-photo-1193743.jpeg?auto=compress&cs=tinysrgb&h=350",
+                "small": "https://images.pexels.com/photos/1193743/pexels-photo-1193743.jpeg?auto=compress&cs=tinysrgb&h=130",
+                "portrait": "https://images.pexels.com/photos/1193743/pexels-photo-1193743.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+                "landscape": "https://images.pexels.com/photos/1193743/pexels-photo-1193743.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+                "tiny": "https://images.pexels.com/photos/1193743/pexels-photo-1193743.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+            },
+            "liked": false,
+            "alt": "Colorful abstract paint splash on white background, capturing creative expression."
+        },
+        {
+            "id": 962312,
+            "width": 4256,
+            "height": 2832,
+            "url": "https://www.pexels.com/photo/silhouette-photo-of-trees-962312/",
+            "photographer": "Min An",
+            "photographer_url": "https://www.pexels.com/@minan1398",
+            "photographer_id": 206851,
+            "avg_color": "#D5D5D5",
+            "src": {
+                "original": "https://images.pexels.com/photos/962312/pexels-photo-962312.jpeg",
+                "large2x": "https://images.pexels.com/photos/962312/pexels-photo-962312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                "large": "https://images.pexels.com/photos/962312/pexels-photo-962312.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+                "medium": "https://images.pexels.com/photos/962312/pexels-photo-962312.jpeg?auto=compress&cs=tinysrgb&h=350",
+                "small": "https://images.pexels.com/photos/962312/pexels-photo-962312.jpeg?auto=compress&cs=tinysrgb&h=130",
+                "portrait": "https://images.pexels.com/photos/962312/pexels-photo-962312.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+                "landscape": "https://images.pexels.com/photos/962312/pexels-photo-962312.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+                "tiny": "https://images.pexels.com/photos/962312/pexels-photo-962312.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+            },
+            "liked": false,
+            "alt": "Monochrome silhouette of trees with intricate branches set against a cloudy sky."
+        },
+        {
+            "id": 1585325,
+            "width": 3449,
+            "height": 4368,
+            "url": "https://www.pexels.com/photo/orange-red-and-green-abstract-painting-1585325/",
+            "photographer": "Steve Johnson",
+            "photographer_url": "https://www.pexels.com/@steve",
+            "photographer_id": 287172,
+            "avg_color": "#9F7532",
+            "src": {
+                "original": "https://images.pexels.com/photos/1585325/pexels-photo-1585325.jpeg",
+                "large2x": "https://images.pexels.com/photos/1585325/pexels-photo-1585325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                "large": "https://images.pexels.com/photos/1585325/pexels-photo-1585325.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+                "medium": "https://images.pexels.com/photos/1585325/pexels-photo-1585325.jpeg?auto=compress&cs=tinysrgb&h=350",
+                "small": "https://images.pexels.com/photos/1585325/pexels-photo-1585325.jpeg?auto=compress&cs=tinysrgb&h=130",
+                "portrait": "https://images.pexels.com/photos/1585325/pexels-photo-1585325.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+                "landscape": "https://images.pexels.com/photos/1585325/pexels-photo-1585325.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+                "tiny": "https://images.pexels.com/photos/1585325/pexels-photo-1585325.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+            },
+            "liked": false,
+            "alt": "Colorful abstract painting with vibrant textures and bold acrylic strokes."
+        },
+        {
+            "id": 743986,
+            "width": 4608,
+            "height": 3456,
+            "url": "https://www.pexels.com/photo/close-up-photography-of-colored-pencils-743986/",
+            "photographer": "Jess Bailey Designs",
+            "photographer_url": "https://www.pexels.com/@jessbaileydesign",
+            "photographer_id": 229739,
+            "avg_color": "#E5DDD9",
+            "src": {
+                "original": "https://images.pexels.com/photos/743986/pexels-photo-743986.jpeg",
+                "large2x": "https://images.pexels.com/photos/743986/pexels-photo-743986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                "large": "https://images.pexels.com/photos/743986/pexels-photo-743986.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+                "medium": "https://images.pexels.com/photos/743986/pexels-photo-743986.jpeg?auto=compress&cs=tinysrgb&h=350",
+                "small": "https://images.pexels.com/photos/743986/pexels-photo-743986.jpeg?auto=compress&cs=tinysrgb&h=130",
+                "portrait": "https://images.pexels.com/photos/743986/pexels-photo-743986.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+                "landscape": "https://images.pexels.com/photos/743986/pexels-photo-743986.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+                "tiny": "https://images.pexels.com/photos/743986/pexels-photo-743986.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+            },
+            "liked": false,
+            "alt": "A row of vibrant colored pencils aligned on a white background, providing ample copyspace."
+        },
+        {
+            "id": 1646953,
+            "width": 3126,
+            "height": 4688,
+            "url": "https://www.pexels.com/photo/shallow-focus-photo-of-paint-brushes-1646953/",
+            "photographer": "Deeana Arts 🇵🇷",
+            "photographer_url": "https://www.pexels.com/@deeanacreates",
+            "photographer_id": 723228,
+            "avg_color": "#A9A3A3",
+            "src": {
+                "original": "https://images.pexels.com/photos/1646953/pexels-photo-1646953.jpeg",
+                "large2x": "https://images.pexels.com/photos/1646953/pexels-photo-1646953.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                "large": "https://images.pexels.com/photos/1646953/pexels-photo-1646953.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+                "medium": "https://images.pexels.com/photos/1646953/pexels-photo-1646953.jpeg?auto=compress&cs=tinysrgb&h=350",
+                "small": "https://images.pexels.com/photos/1646953/pexels-photo-1646953.jpeg?auto=compress&cs=tinysrgb&h=130",
+                "portrait": "https://images.pexels.com/photos/1646953/pexels-photo-1646953.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+                "landscape": "https://images.pexels.com/photos/1646953/pexels-photo-1646953.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+                "tiny": "https://images.pexels.com/photos/1646953/pexels-photo-1646953.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+            },
+            "liked": false,
+            "alt": "Art brushes with abstract painted canvas in vibrant colors."
+        },
+        {
+            "id": 1570264,
+            "width": 3456,
+            "height": 5184,
+            "url": "https://www.pexels.com/photo/take-it-easy-painted-road-1570264/",
+            "photographer": "REAFON GATES",
+            "photographer_url": "https://www.pexels.com/@reafonbgates",
+            "photographer_id": 582771,
+            "avg_color": "#788185",
+            "src": {
+                "original": "https://images.pexels.com/photos/1570264/pexels-photo-1570264.jpeg",
+                "large2x": "https://images.pexels.com/photos/1570264/pexels-photo-1570264.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                "large": "https://images.pexels.com/photos/1570264/pexels-photo-1570264.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+                "medium": "https://images.pexels.com/photos/1570264/pexels-photo-1570264.jpeg?auto=compress&cs=tinysrgb&h=350",
+                "small": "https://images.pexels.com/photos/1570264/pexels-photo-1570264.jpeg?auto=compress&cs=tinysrgb&h=130",
+                "portrait": "https://images.pexels.com/photos/1570264/pexels-photo-1570264.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+                "landscape": "https://images.pexels.com/photos/1570264/pexels-photo-1570264.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+                "tiny": "https://images.pexels.com/photos/1570264/pexels-photo-1570264.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+            },
+            "liked": false,
+            "alt": "Black graffiti text 'Take it Easy' on a textured concrete wall."
+        },
+        {
+            "id": 1209843,
+            "width": 5616,
+            "height": 3744,
+            "url": "https://www.pexels.com/photo/person-with-body-painting-1209843/",
+            "photographer": "Alexander Grey",
+            "photographer_url": "https://www.pexels.com/@mccutcheon",
+            "photographer_id": 285828,
+            "avg_color": "#958981",
+            "src": {
+                "original": "https://images.pexels.com/photos/1209843/pexels-photo-1209843.jpeg",
+                "large2x": "https://images.pexels.com/photos/1209843/pexels-photo-1209843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                "large": "https://images.pexels.com/photos/1209843/pexels-photo-1209843.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+                "medium": "https://images.pexels.com/photos/1209843/pexels-photo-1209843.jpeg?auto=compress&cs=tinysrgb&h=350",
+                "small": "https://images.pexels.com/photos/1209843/pexels-photo-1209843.jpeg?auto=compress&cs=tinysrgb&h=130",
+                "portrait": "https://images.pexels.com/photos/1209843/pexels-photo-1209843.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+                "landscape": "https://images.pexels.com/photos/1209843/pexels-photo-1209843.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+                "tiny": "https://images.pexels.com/photos/1209843/pexels-photo-1209843.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+            },
+            "liked": false,
+            "alt": "Close-up of a person with colorful rainbow face paint, symbolizing LGBT pride and expression."
+        }
+    ],
+    "total_results": 8000,
+    "next_page": "https://api.pexels.com/v1/search?page=2&per_page=10&query=art"
+}

@@ -1,0 +1,228 @@
+{
+    "page": 1,
+    "per_page": 10,
+    "photos": [
+        {
+            "id": 16254138,
+            "width": 3888,
+            "height": 5184,
+            "url": "https://www.pexels.com/photo/a-sketch-of-a-cat-16254138/",
+            "photographer": "Lisa from Pexels",
+            "photographer_url": "https://www.pexels.com/@fotios-photos",
+            "photographer_id": 26735,
+            "avg_color": "#594E48",
+            "src": {
+                "original": "https://images.pexels.com/photos/16254138/pexels-photo-16254138.jpeg",
+                "large2x": "https://images.pexels.com/photos/16254138/pexels-photo-16254138.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                "large": "https://images.pexels.com/photos/16254138/pexels-photo-16254138.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+                "medium": "https://images.pexels.com/photos/16254138/pexels-photo-16254138.jpeg?auto=compress&cs=tinysrgb&h=350",
+                "small": "https://images.pexels.com/photos/16254138/pexels-photo-16254138.jpeg?auto=compress&cs=tinysrgb&h=130",
+                "portrait": "https://images.pexels.com/photos/16254138/pexels-photo-16254138.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+                "landscape": "https://images.pexels.com/photos/16254138/pexels-photo-16254138.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+                "tiny": "https://images.pexels.com/photos/16254138/pexels-photo-16254138.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+            },
+            "liked": false,
+            "alt": "A pencil sketch of a cat on a wooden table accompanied by flowers and eyeglasses."
+        },
+        {
+            "id": 29408186,
+            "width": 3744,
+            "height": 5616,
+            "url": "https://www.pexels.com/photo/black-cat-in-dramatic-low-light-portrait-29408186/",
+            "photographer": "Tom Johnny fotografias",
+            "photographer_url": "https://www.pexels.com/@tom-johnny-fotografias-862337689",
+            "photographer_id": 862337689,
+            "avg_color": "#090806",
+            "src": {
+                "original": "https://images.pexels.com/photos/29408186/pexels-photo-29408186.jpeg",
+                "large2x": "https://images.pexels.com/photos/29408186/pexels-photo-29408186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                "large": "https://images.pexels.com/photos/29408186/pexels-photo-29408186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+                "medium": "https://images.pexels.com/photos/29408186/pexels-photo-29408186.jpeg?auto=compress&cs=tinysrgb&h=350",
+                "small": "https://images.pexels.com/photos/29408186/pexels-photo-29408186.jpeg?auto=compress&cs=tinysrgb&h=130",
+                "portrait": "https://images.pexels.com/photos/29408186/pexels-photo-29408186.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+                "landscape": "https://images.pexels.com/photos/29408186/pexels-photo-29408186.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+                "tiny": "https://images.pexels.com/photos/29408186/pexels-photo-29408186.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+            },
+            "liked": false,
+            "alt": "Portrait of a black cat with striking green eyes on a dark background."
+        },
+        {
+            "id": 763135,
+            "width": 6004,
+            "height": 4912,
+            "url": "https://www.pexels.com/photo/photo-of-wooden-bookshelves-763135/",
+            "photographer": "Cats Coming",
+            "photographer_url": "https://www.pexels.com/@catscoming",
+            "photographer_id": 116286,
+            "avg_color": "#403425",
+            "src": {
+                "original": "https://images.pexels.com/photos/763135/pexels-photo-763135.jpeg",
+                "large2x": "https://images.pexels.com/photos/763135/pexels-photo-763135.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                "large": "https://images.pexels.com/photos/763135/pexels-photo-763135.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+                "medium": "https://images.pexels.com/photos/763135/pexels-photo-763135.jpeg?auto=compress&cs=tinysrgb&h=350",
+                "small": "https://images.pexels.com/photos/763135/pexels-photo-763135.jpeg?auto=compress&cs=tinysrgb&h=130",
+                "portrait": "https://images.pexels.com/photos/763135/pexels-photo-763135.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+                "landscape": "https://images.pexels.com/photos/763135/pexels-photo-763135.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+                "tiny": "https://images.pexels.com/photos/763135/pexels-photo-763135.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+            },
+            "liked": false,
+            "alt": "Warm sunlight illuminates a cozy library corner with wooden bookshelves filled with books."
+        },
+        {
+            "id": 10267955,
+            "width": 3648,
+            "height": 5472,
+            "url": "https://www.pexels.com/photo/glass-of-coffee-and-flowers-on-table-10267955/",
+            "photographer": "Nikita Krasnov",
+            "photographer_url": "https://www.pexels.com/@nikita-krasnov-5999644",
+            "photographer_id": 5999644,
+            "avg_color": "#797375",
+            "src": {
+                "original": "https://images.pexels.com/photos/10267955/pexels-photo-10267955.jpeg",
+                "large2x": "https://images.pexels.com/photos/10267955/pexels-photo-10267955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                "large": "https://images.pexels.com/photos/10267955/pexels-photo-10267955.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+                "medium": "https://images.pexels.com/photos/10267955/pexels-photo-10267955.jpeg?auto=compress&cs=tinysrgb&h=350",
+                "small": "https://images.pexels.com/photos/10267955/pexels-photo-10267955.jpeg?auto=compress&cs=tinysrgb&h=130",
+                "portrait": "https://images.pexels.com/photos/10267955/pexels-photo-10267955.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+                "landscape": "https://images.pexels.com/photos/10267955/pexels-photo-10267955.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+                "tiny": "https://images.pexels.com/photos/10267955/pexels-photo-10267955.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+            },
+            "liked": false,
+            "alt": "A creative latte art design featuring a cat, paired with vibrant flowers and elegant presentation."
+        },
+        {
+            "id": 4406713,
+            "width": 4403,
+            "height": 6604,
+            "url": "https://www.pexels.com/photo/woman-in-white-t-shirt-sitting-on-brown-chair-4406713/",
+            "photographer": "Anastasia  Shuraeva",
+            "photographer_url": "https://www.pexels.com/@anastasia-shuraeva",
+            "photographer_id": 2441340,
+            "avg_color": "#B5A795",
+            "src": {
+                "original": "https://images.pexels.com/photos/4406713/pexels-photo-4406713.jpeg",
+                "large2x": "https://images.pexels.com/photos/4406713/pexels-photo-4406713.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                "large": "https://images.pexels.com/photos/4406713/pexels-photo-4406713.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+                "medium": "https://images.pexels.com/photos/4406713/pexels-photo-4406713.jpeg?auto=compress&cs=tinysrgb&h=350",
+                "small": "https://images.pexels.com/photos/4406713/pexels-photo-4406713.jpeg?auto=compress&cs=tinysrgb&h=130",
+                "portrait": "https://images.pexels.com/photos/4406713/pexels-photo-4406713.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+                "landscape": "https://images.pexels.com/photos/4406713/pexels-photo-4406713.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+                "tiny": "https://images.pexels.com/photos/4406713/pexels-photo-4406713.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+            },
+            "liked": false,
+            "alt": "An artist paints a colorful cat portrait on canvas with an easel and paint set in a well-lit room."
+        },
+        {
+            "id": 2878732,
+            "width": 3742,
+            "height": 4677,
+            "url": "https://www.pexels.com/photo/cat-graphic-painting-in-a-wall-2878732/",
+            "photographer": "Lucas Pezeta",
+            "photographer_url": "https://www.pexels.com/@lucaspezeta",
+            "photographer_id": 862177,
+            "avg_color": "#836149",
+            "src": {
+                "original": "https://images.pexels.com/photos/2878732/pexels-photo-2878732.jpeg",
+                "large2x": "https://images.pexels.com/photos/2878732/pexels-photo-2878732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                "large": "https://images.pexels.com/photos/2878732/pexels-photo-2878732.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+                "medium": "https://images.pexels.com/photos/2878732/pexels-photo-2878732.jpeg?auto=compress&cs=tinysrgb&h=350",
+                "small": "https://images.pexels.com/photos/2878732/pexels-photo-2878732.jpeg?auto=compress&cs=tinysrgb&h=130",
+                "portrait": "https://images.pexels.com/photos/2878732/pexels-photo-2878732.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+                "landscape": "https://images.pexels.com/photos/2878732/pexels-photo-2878732.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+                "tiny": "https://images.pexels.com/photos/2878732/pexels-photo-2878732.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+            },
+            "liked": false,
+            "alt": "Warm brick wall with cat art and lighting in a stylish cafe interior."
+        },
+        {
+            "id": 30913847,
+            "width": 6732,
+            "height": 4208,
+            "url": "https://www.pexels.com/photo/indoor-artistic-scene-with-calligraphy-and-cat-30913847/",
+            "photographer": "Jesse R",
+            "photographer_url": "https://www.pexels.com/@jesserphotonyc",
+            "photographer_id": 489622426,
+            "avg_color": "#4D3F34",
+            "src": {
+                "original": "https://images.pexels.com/photos/30913847/pexels-photo-30913847.jpeg",
+                "large2x": "https://images.pexels.com/photos/30913847/pexels-photo-30913847.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                "large": "https://images.pexels.com/photos/30913847/pexels-photo-30913847.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+                "medium": "https://images.pexels.com/photos/30913847/pexels-photo-30913847.jpeg?auto=compress&cs=tinysrgb&h=350",
+                "small": "https://images.pexels.com/photos/30913847/pexels-photo-30913847.jpeg?auto=compress&cs=tinysrgb&h=130",
+                "portrait": "https://images.pexels.com/photos/30913847/pexels-photo-30913847.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+                "landscape": "https://images.pexels.com/photos/30913847/pexels-photo-30913847.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+                "tiny": "https://images.pexels.com/photos/30913847/pexels-photo-30913847.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+            },
+            "liked": false,
+            "alt": "A woman practices Chinese calligraphy beside a curious cat in a warm, artistic home setting."
+        },
+        {
+            "id": 30913848,
+            "width": 7008,
+            "height": 4380,
+            "url": "https://www.pexels.com/photo/cozy-calligraphy-session-in-new-york-apartment-30913848/",
+            "photographer": "Jesse R",
+            "photographer_url": "https://www.pexels.com/@jesserphotonyc",
+            "photographer_id": 489622426,
+            "avg_color": "#4E4035",
+            "src": {
+                "original": "https://images.pexels.com/photos/30913848/pexels-photo-30913848.jpeg",
+                "large2x": "https://images.pexels.com/photos/30913848/pexels-photo-30913848.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                "large": "https://images.pexels.com/photos/30913848/pexels-photo-30913848.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+                "medium": "https://images.pexels.com/photos/30913848/pexels-photo-30913848.jpeg?auto=compress&cs=tinysrgb&h=350",
+                "small": "https://images.pexels.com/photos/30913848/pexels-photo-30913848.jpeg?auto=compress&cs=tinysrgb&h=130",
+                "portrait": "https://images.pexels.com/photos/30913848/pexels-photo-30913848.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+                "landscape": "https://images.pexels.com/photos/30913848/pexels-photo-30913848.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+                "tiny": "https://images.pexels.com/photos/30913848/pexels-photo-30913848.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+            },
+            "liked": false,
+            "alt": "Woman practicing calligraphy with her cat in a warm New York apartment."
+        },
+        {
+            "id": 30913849,
+            "width": 6658,
+            "height": 4161,
+            "url": "https://www.pexels.com/photo/young-woman-practicing-calligraphy-with-cat-by-window-30913849/",
+            "photographer": "Jesse R",
+            "photographer_url": "https://www.pexels.com/@jesserphotonyc",
+            "photographer_id": 489622426,
+            "avg_color": "#45382F",
+            "src": {
+                "original": "https://images.pexels.com/photos/30913849/pexels-photo-30913849.jpeg",
+                "large2x": "https://images.pexels.com/photos/30913849/pexels-photo-30913849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                "large": "https://images.pexels.com/photos/30913849/pexels-photo-30913849.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+                "medium": "https://images.pexels.com/photos/30913849/pexels-photo-30913849.jpeg?auto=compress&cs=tinysrgb&h=350",
+                "small": "https://images.pexels.com/photos/30913849/pexels-photo-30913849.jpeg?auto=compress&cs=tinysrgb&h=130",
+                "portrait": "https://images.pexels.com/photos/30913849/pexels-photo-30913849.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+                "landscape": "https://images.pexels.com/photos/30913849/pexels-photo-30913849.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+                "tiny": "https://images.pexels.com/photos/30913849/pexels-photo-30913849.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+            },
+            "liked": false,
+            "alt": "A woman focuses on Chinese calligraphy beside a cat in a cozy New York apartment."
+        },
+        {
+            "id": 31069601,
+            "width": 4044,
+            "height": 6066,
+            "url": "https://www.pexels.com/photo/young-woman-practicing-calligraphy-with-cat-by-window-31069601/",
+            "photographer": "Jesse R",
+            "photographer_url": "https://www.pexels.com/@jesserphotonyc",
+            "photographer_id": 489622426,
+            "avg_color": "#453B32",
+            "src": {
+                "original": "https://images.pexels.com/photos/31069601/pexels-photo-31069601.jpeg",
+                "large2x": "https://images.pexels.com/photos/31069601/pexels-photo-31069601.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                "large": "https://images.pexels.com/photos/31069601/pexels-photo-31069601.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+                "medium": "https://images.pexels.com/photos/31069601/pexels-photo-31069601.jpeg?auto=compress&cs=tinysrgb&h=350",
+                "small": "https://images.pexels.com/photos/31069601/pexels-photo-31069601.jpeg?auto=compress&cs=tinysrgb&h=130",
+                "portrait": "https://images.pexels.com/photos/31069601/pexels-photo-31069601.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+                "landscape": "https://images.pexels.com/photos/31069601/pexels-photo-31069601.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+                "tiny": "https://images.pexels.com/photos/31069601/pexels-photo-31069601.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+            },
+            "liked": false,
+            "alt": "Artistic shot of an adult woman practicing calligraphy near a resting cat by a sunlit window in New York."
+        }
+    ],
+    "total_results": 8000,
+    "next_page": "https://api.pexels.com/v1/search?page=2&per_page=10&query=cat+art"
+}
