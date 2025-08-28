@@ -1,16 +1,65 @@
-# tdd_art_museum
+# TDD Art Museum
 
-A new Flutter project.
+A Flutter project built to demonstrate **Test-Driven Development (TDD)** principles and best practices.  
+This repository focuses on **writing tests first** to guide the development process, ensuring maintainable, reliable, and clean code.
+
+---
+
+## Overview
+
+This project is not about building a production-grade art museum app.  
+Instead, it serves as a **case study** on how to apply TDD in Flutter development.
+
+Key learning objectives:
+
+- Writing **unit**, **widget**, and **integration** tests in Flutter.
+- Structuring tests to drive feature development.
+- Maintaining clean architecture while achieving high test coverage.
+
+---
+
+## What This Project Showcases
+
+- **Red-Green-Refactor Cycle**: Every feature starts with a failing test (Red), moves to passing implementation (Green), and ends with code improvements (Refactor).
+- **Separation of Concerns**: Business logic, UI, and data handling are structured for testability.
+- **Mocking & Stubs**: External dependencies (e.g., repositories, services) are mocked to isolate test scenarios.
+- **Test Organization**: Clear folder structure for different test types.
+
+---
+
+## Tech Stack
+
+- **Flutter** – Core framework
+- **Dart** – Language
+- **flutter_test** – Built-in Flutter testing library
+- **mocktail / Mockito** – For mocking dependencies
+- **CI-ready** – Tests can run in pipelines for continuous validation
+
+---
+
+## Test Coverage
+
+The project demonstrates testing across three levels:
+
+1. **Unit Tests**
+
+   - Validate business logic in isolation
+   - Example: Verifying state transitions in a ViewModel
+
+2. **Widget Tests**
+
+   - Test individual UI components with simulated interactions
+   - Example: Ensuring buttons trigger expected callbacks
+
+3. **Integration Tests**
+   - Verify multiple components work together as expected
+   - Example: Navigation flow between screens under test conditions
+
+---
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/ShravanChilka/tdd_art_museum.git
+   ```
